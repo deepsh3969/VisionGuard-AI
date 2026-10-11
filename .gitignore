@@ -1,0 +1,16 @@
+node_modules/
+dist/
+.vercel/
+*.log
+npm-install.log
+npm-install.err.log
+.tsbuildinfo
+*.tsbuildinfo
+tests/fixtures/*.onnx
+tests/fixtures/*.jpg
+tests/fixtures/*.jpeg
+tests/fixtures/*.png
+.DS_Store
+.env
+.env.local
+.env.*.local
